@@ -1,6 +1,6 @@
 ### Hi there, my name is Ana Júlia Nogueira
 
-- 🔭 I’m currently studying on alura
+- 🔭 I’m currently studying in alura
 - 🌱 I’m currently learning javascript language
 - 📫 How to reach me: 00001092463690sp@al.educacao.sp.gov.br
 - 😄 Pronouns: she/her
