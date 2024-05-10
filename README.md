@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning javascript language
 - 📫 How to reach me: 00001092463690sp@al.educacao.sp.gov.br
 - 😄 Pronouns: she/her 
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.petlove.com.br%2Fdicas%2Fos-gifs-mais-fofos-de-filhotes&psig=AOvVaw1yi3rWGoabGXWgwZ4acd7l&ust=1715432529514000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDM9KaSg4YDFQAAAAAdAAAAABAS
+  [https://blog-static.petlove.com.br/wp-content/uploads/2017/06/filhotes-fofos-1.gif?_gl=1*f64ubn*_gcl_au*NjI4MzEyMS4xNzE1MzQ2MTgy&_ga=2.116110086.1811177345.1715346577-2023077747.1715346577
 ]
